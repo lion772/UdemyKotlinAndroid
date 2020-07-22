@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apps/TasksTemplate/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Apps/TasksTemplate/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ConstraintLayoutLogin/Fonte/app/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/Exercicios/ConstraintLayoutLogin/Fonte/app/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Motivation/app/src/androidTest/androidTest10.iml" filepath="$PROJECT_DIR$/Apps/Motivation/app/src/androidTest/androidTest10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/LinearLayout/Fonte/app/src/androidTest/androidTest11.iml" filepath="$PROJECT_DIR$/Exercicios/LinearLayout/Fonte/app/src/androidTest/androidTest11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/RelativeLayout/Fonte/app/src/androidTest/androidTest12.iml" filepath="$PROJECT_DIR$/Exercicios/RelativeLayout/Fonte/app/src/androidTest/androidTest12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/RetrofitExemplo/app/src/androidTest/androidTest13.iml" filepath="$PROJECT_DIR$/Apps/RetrofitExemplo/app/src/androidTest/androidTest13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/GastoViagem/app/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/Apps/GastoViagem/app/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/ConvidadosRoom/app/src/androidTest/androidTest3.iml" filepath="$PROJECT_DIR$/Apps/ConvidadosRoom/app/src/androidTest/androidTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Componentes/app/src/androidTest/androidTest4.iml" filepath="$PROJECT_DIR$/Apps/Componentes/app/src/androidTest/androidTest4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ConstraintLayoutCoffee/Fonte/app/src/androidTest/androidTest5.iml" filepath="$PROJECT_DIR$/Exercicios/ConstraintLayoutCoffee/Fonte/app/src/androidTest/androidTest5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Tasks/app/src/androidTest/androidTest6.iml" filepath="$PROJECT_DIR$/Apps/Tasks/app/src/androidTest/androidTest6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ExCheckBox/Fonte/app/src/androidTest/androidTest7.iml" filepath="$PROJECT_DIR$/Exercicios/ExCheckBox/Fonte/app/src/androidTest/androidTest7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/LoginMVVM/app/src/androidTest/androidTest8.iml" filepath="$PROJECT_DIR$/Apps/LoginMVVM/app/src/androidTest/androidTest8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Convidados/app/src/androidTest/androidTest9.iml" filepath="$PROJECT_DIR$/Apps/Convidados/app/src/androidTest/androidTest9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/LinearLayout/Fonte/app/src/main/main.iml" filepath="$PROJECT_DIR$/Exercicios/LinearLayout/Fonte/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Componentes/app/src/main/main1.iml" filepath="$PROJECT_DIR$/Apps/Componentes/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Tasks/app/src/main/main10.iml" filepath="$PROJECT_DIR$/Apps/Tasks/app/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/RetrofitExemplo/app/src/main/main11.iml" filepath="$PROJECT_DIR$/Apps/RetrofitExemplo/app/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/ConvidadosRoom/app/src/main/main12.iml" filepath="$PROJECT_DIR$/Apps/ConvidadosRoom/app/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Convidados/app/src/main/main13.iml" filepath="$PROJECT_DIR$/Apps/Convidados/app/src/main/main13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ConstraintLayoutCoffee/Fonte/app/src/main/main2.iml" filepath="$PROJECT_DIR$/Exercicios/ConstraintLayoutCoffee/Fonte/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/TasksTemplate/app/src/main/main3.iml" filepath="$PROJECT_DIR$/Apps/TasksTemplate/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ExCheckBox/Fonte/app/src/main/main4.iml" filepath="$PROJECT_DIR$/Exercicios/ExCheckBox/Fonte/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Motivation/app/src/main/main5.iml" filepath="$PROJECT_DIR$/Apps/Motivation/app/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/LoginMVVM/app/src/main/main6.iml" filepath="$PROJECT_DIR$/Apps/LoginMVVM/app/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/RelativeLayout/Fonte/app/src/main/main7.iml" filepath="$PROJECT_DIR$/Exercicios/RelativeLayout/Fonte/app/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/GastoViagem/app/src/main/main8.iml" filepath="$PROJECT_DIR$/Apps/GastoViagem/app/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ConstraintLayoutLogin/Fonte/app/src/main/main9.iml" filepath="$PROJECT_DIR$/Exercicios/ConstraintLayoutLogin/Fonte/app/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/LoginMVVM/app/src/test/test.iml" filepath="$PROJECT_DIR$/Apps/LoginMVVM/app/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Tasks/app/src/test/test1.iml" filepath="$PROJECT_DIR$/Apps/Tasks/app/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ConstraintLayoutLogin/Fonte/app/src/test/test10.iml" filepath="$PROJECT_DIR$/Exercicios/ConstraintLayoutLogin/Fonte/app/src/test/test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/LinearLayout/Fonte/app/src/test/test11.iml" filepath="$PROJECT_DIR$/Exercicios/LinearLayout/Fonte/app/src/test/test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Motivation/app/src/test/test12.iml" filepath="$PROJECT_DIR$/Apps/Motivation/app/src/test/test12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ConstraintLayoutCoffee/Fonte/app/src/test/test13.iml" filepath="$PROJECT_DIR$/Exercicios/ConstraintLayoutCoffee/Fonte/app/src/test/test13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/TasksTemplate/app/src/test/test2.iml" filepath="$PROJECT_DIR$/Apps/TasksTemplate/app/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/ConvidadosRoom/app/src/test/test3.iml" filepath="$PROJECT_DIR$/Apps/ConvidadosRoom/app/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/GastoViagem/app/src/test/test4.iml" filepath="$PROJECT_DIR$/Apps/GastoViagem/app/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/RelativeLayout/Fonte/app/src/test/test5.iml" filepath="$PROJECT_DIR$/Exercicios/RelativeLayout/Fonte/app/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/RetrofitExemplo/app/src/test/test6.iml" filepath="$PROJECT_DIR$/Apps/RetrofitExemplo/app/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Convidados/app/src/test/test7.iml" filepath="$PROJECT_DIR$/Apps/Convidados/app/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Componentes/app/src/test/test8.iml" filepath="$PROJECT_DIR$/Apps/Componentes/app/src/test/test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ExCheckBox/Fonte/app/src/test/test9.iml" filepath="$PROJECT_DIR$/Exercicios/ExCheckBox/Fonte/app/src/test/test9.iml" />
+    </modules>
+  </component>
+</project>
